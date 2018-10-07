@@ -724,6 +724,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a94a4098d97d84de4a061b7edfbd2f1a, type: 2}
   - {fileID: 11400000, guid: 8787f5fcf36d147f4a81923ba2e80eb9, type: 2}
   - {fileID: 11400000, guid: 048820e847e6f481ebe913901407b12c, type: 2}
+  - {fileID: 11400000, guid: 93707cbb19ec8844ba445bfc2259e5a3, type: 2}
   currentSkill: -1
   _effectMount: {fileID: 4637076039056732}
   _gold: 0

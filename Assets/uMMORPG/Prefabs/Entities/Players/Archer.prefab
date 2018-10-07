@@ -856,6 +856,7 @@ MonoBehaviour:
   _gold: 0
   nameOverlay: {fileID: 102074384422830392}
   lookDirection: {x: 0, y: -1}
+  tp: {fileID: 0}
   chat: {fileID: 114342037026676708}
   avatarCamera: {fileID: 20977928277026160}
   guildOverlay: {fileID: 102328733319197314}
