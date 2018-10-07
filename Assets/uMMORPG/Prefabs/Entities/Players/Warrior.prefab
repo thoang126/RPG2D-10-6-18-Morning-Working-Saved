@@ -703,7 +703,7 @@ MonoBehaviour:
     baseValue: 1
     bonusPerLevel: 0
   _damage:
-    baseValue: 1
+    baseValue: 10
     bonusPerLevel: 1
   _defense:
     baseValue: 1
@@ -729,6 +729,7 @@ MonoBehaviour:
   _gold: 0
   nameOverlay: {fileID: 102450461683069762}
   lookDirection: {x: 0, y: -1}
+  tp: {fileID: 0}
   chat: {fileID: 114438020945256178}
   avatarCamera: {fileID: 20925768905277832}
   guildOverlay: {fileID: 102837002439146290}
